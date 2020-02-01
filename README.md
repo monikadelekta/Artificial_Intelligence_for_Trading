@@ -1,2 +1,3 @@
 # Artificial_Intelligence_for_Trading
-Udacity Course
+Completed projects for Udacity Course - Artificial Intelligence for Trading
+https://www.udacity.com/course/ai-for-trading--nd880
