@@ -124,13 +124,8 @@ def date_top_industries(prices, sector, date, top_n):
     -------
     top_industries : set
         Top industries for the date
-    """
-    # TODO: Implement Function
-    
+    """    
     return set(sector.loc[prices.loc[date].nlargest(top_n).index])
 
 project_tests.test_date_top_industries(date_top_industries)
 
-
-# ## Quiz Solution
-# If you're having trouble, you can check out the quiz solution [here](top_and_bottom_performing_solution.ipynb).
