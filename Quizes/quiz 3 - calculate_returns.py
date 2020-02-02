@@ -66,13 +66,8 @@ def calculate_returns(close):
     returns : DataFrame
         Returns for each ticker and date
     """
-    # TODO: Implement Function
     close = (close - close.shift(1)) / close.shift(1)
     return close
 
 
 quiz_tests.test_calculate_returns(calculate_returns)
-
-
-# ## Quiz Solution
-# If you're having trouble, you can check out the quiz solution [here](calculate_returns_solution.ipynb).
