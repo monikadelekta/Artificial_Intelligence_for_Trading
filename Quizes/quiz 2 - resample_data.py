@@ -123,8 +123,6 @@ def days_to_weeks(open_prices, high_prices, low_prices, close_prices):
     close_prices_weekly : DataFrame
         Weekly close prices for each ticker and date
     """
-    
-    # TODO: Implement Function    
     open_prices_weekly = open_prices.resample('W').first()
     high_prices_weekly = high_prices.resample('W').max()
     low_prices_weekly = low_prices.resample('W').min()
@@ -134,7 +132,3 @@ def days_to_weeks(open_prices, high_prices, low_prices, close_prices):
 
 
 quiz_tests.test_days_to_weeks(days_to_weeks)
-
-
-# ## Quiz Solution
-# If you're having trouble, you can check out the quiz solution [here](resample_data_solution.ipynb).
