@@ -18,7 +18,6 @@ def analyze_returns(net_returns):
     p_value
         Corresponding p-value
     """
-    # TODO: Perform one-tailed t-test on net_returns
     # Hint: You can use stats.ttest_1samp() to perform the test.
     #       However, this performs a two-tailed t-test.
     #       You'll need to divde the p-value by 2 to get the results of a one-tailed p-value.
