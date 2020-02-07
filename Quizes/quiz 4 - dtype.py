@@ -136,17 +136,10 @@ def generate_positions(prices):
     # TODO: Implement Function    
     long = prices > 50
     short = prices < 20
-    
-    
+   
     long_pos = 30 * long.astype(np.int)
     short_pos = -10 * short.astype(np.int)
     
-    al = long_pos + short_pos
-    
-    return  al
+    return  long_pos + short_pos
 
 project_tests.test_generate_positions(generate_positions)
-
-
-# ## Quiz Solution
-# If you're having trouble, you can check out the quiz solution [here](dtype_solution.ipynb).
