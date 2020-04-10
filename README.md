@@ -5,11 +5,14 @@ The repository will contain all of the projects and exercises completed by mysel
 
 ## Terms
 
-This course is broken down into two terms:
+This course is broken down into two terms each with four projects and various exercises:
+
 1. **Quantitative Trading** - Learn the basics of quantitative analysis, including data processing, trading signal generation, and portfolio management. Use Python to work with historical stock data, develop trading strategies, and construct a multi-factor model with optimization
 2. **AI Algorithms in Trading** - Learn how to analyze alternative data and use machine learning to generate trading signals. Run a backtest to evaluate and combine top performing signals
 
 ## Projects
+
+The projects completed over the entire course are: 
 
 1. **Trading With Momentum** - implement a momentum trading strategy and determine whether it has the potential to be profitable 
 2. **Breakout Strategy** - code and evaluate a breakout signal, including finding outliers within a trading signal
