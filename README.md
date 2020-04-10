@@ -3,7 +3,7 @@
 The [Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880) Udacity course is a 6 month course focused on learning the basics of quantitative analysis, trade signal generation and portfolio management. 
 The repository will contain all of the projects and exercises completed by myself towards the completion of the course. 
 
-### Projects
+## Projects
 
 1. **Trading with momentum** - implement a momentum trading strategy and determine whether it has the potential to be profitable 
 2. **Breakout strategy** - code and evaluate a breakout signal, including finding outliers within a trading signal
@@ -15,7 +15,7 @@ The repository will contain all of the projects and exercises completed by mysel
 8. **Backtesting** - build a backtester taht uses Barra data, this will perform portfolio optimisation with computational efficiency in mind. Use performance attribution to identify the major drivers of your portfolios profit and loss
 
 
-#### Coding
+## Coding
 
 All coding is completed in Python using Jupyter notebooks
 
