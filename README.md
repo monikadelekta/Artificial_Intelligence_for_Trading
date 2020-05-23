@@ -21,7 +21,7 @@ The projects completed over the entire course are:
 5. **Sentiment Analysis Using NLP** - apply NLP to corporate filings (10Q and 10K statements) to decide which company to invest in
 6. **Sentiment Analysis With Neural Networks** - build a deep neural network to process and interpret news data
 7. **Combine Signals For Enchanced Alpha** - combine signals on a random forest for enchanced alpha 
-8. **Backtesting** - build a backtester taht uses Barra data, this will perform portfolio optimisation with computational efficiency in mind. Use performance attribution to identify the major drivers of your portfolios profit and loss
+8. **Backtesting** - build a backtester that uses Barra data, this will perform portfolio optimisation with computational efficiency in mind. Use performance attribution to identify the major drivers of your portfolios profit and loss
 
 
 ### Coding
